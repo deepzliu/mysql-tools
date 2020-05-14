@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.swo
+*.bak
+*.a
+*.so
+*.o
+*.un~
+*.out
+.DS_Store
+spp_plugin2
